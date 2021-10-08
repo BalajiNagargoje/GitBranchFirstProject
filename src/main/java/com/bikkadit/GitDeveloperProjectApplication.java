@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitDeveloperProjectApplication {
 
 	public static void main(String[] args) {
+		
+		String s1="Pawan";
 		SpringApplication.run(GitDeveloperProjectApplication.class, args);
 	}
 
